@@ -1,0 +1,10 @@
+<!-- 添加 com.example.cl.crazyandroiddemo4.DrawView 目录下自定义组件DrawView-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/root">
+<com.example.cl.crazyandroiddemo4.DrawView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"/>
+</LinearLayout>
